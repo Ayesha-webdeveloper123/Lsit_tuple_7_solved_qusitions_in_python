@@ -1,0 +1,1 @@
+# Lsit_tuple_7_solved_qusitions_in_python
